@@ -1,4 +1,7 @@
-Here is Kaitlyn's edit for the README file
+Kaitlyn Ott
+python --version in Anaconda Prompt    Python 3.8.5
+python --version in regular Command Prompt    Python 3.8.5
+
 # Checking Your Python (Anaconda) Installation
 
 ## Summary of steps to complete (See corresponding sections below.)
