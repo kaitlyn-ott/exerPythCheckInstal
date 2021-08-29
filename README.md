@@ -1,3 +1,4 @@
+Here is Kaitlyn's edit for the README file
 # Checking Your Python (Anaconda) Installation
 
 ## Summary of steps to complete (See corresponding sections below.)
